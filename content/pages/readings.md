@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of reading assignments students are expected
+  to be prepared to discuss for each lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
