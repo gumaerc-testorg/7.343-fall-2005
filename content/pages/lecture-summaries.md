@@ -122,7 +122,7 @@ The new drug ezetimibe has a unique mechanism for lowering cholesterol: it inhib
 Atherosclerosis and heart attack, current treatments
 {{< tdclose >}}
 {{< tdopen >}}
-This week we will take a field trip to [Beth-Israel Deaconess Medical Center](http://www.bidmc.harvard.edu/) to meet a cardiologist.
+This week we will take a field trip to {{% resource_link "bfa1b17c-1256-4d4e-ac7f-b32f694e066f" "Beth-Israel Deaconess Medical Center" %}} to meet a cardiologist.
 {{< tdclose >}}
 
 {{< trclose >}}
